@@ -1,4 +1,4 @@
-package com.example.taberna.eventbus;
+package taberna.eventbus;
 
 import java.util.List;
 import java.util.Map;

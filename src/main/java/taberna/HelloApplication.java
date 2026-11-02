@@ -1,4 +1,4 @@
-package com.example.taberna;
+package taberna;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

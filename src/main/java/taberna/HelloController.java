@@ -1,4 +1,4 @@
-package com.example.taberna;
+package taberna;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

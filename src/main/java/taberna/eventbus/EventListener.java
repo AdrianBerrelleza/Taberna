@@ -1,4 +1,4 @@
-package com.example.taberna.eventbus;
+package taberna.eventbus;
 
 @FunctionalInterface
 public interface EventListener<T> {

@@ -3,6 +3,6 @@ module com.example.taberna {
     requires javafx.fxml;
 
 
-    opens com.example.taberna to javafx.fxml;
-    exports com.example.taberna;
+    opens taberna to javafx.fxml;
+    exports taberna;
 }

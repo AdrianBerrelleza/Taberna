@@ -1,4 +1,6 @@
 package com.example.taberna.eventbus;
 
-public class EventListener {
+@FunctionalInterface
+public interface EventListener<T> {
+    void onEvent(T event);
 }
